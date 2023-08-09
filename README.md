@@ -1,4 +1,5 @@
 # Praktikum 1 DasPro
+Praktikum 1 Dasar Pemrograman Institut Teknologi Bandung yang menggunakan bahasa Haskell
 ## Soal 1
 Nama File: LuasSegitiga.hs
 Header: module LuasSegitiga where
